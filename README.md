@@ -16,7 +16,9 @@ the optical sensor [sensor schematic](OpticalRXpd49pi/schematic.pdf)
 
 The TDA2050 is an audio amplifier.  I got an amplifier board that uses this
 part on Amazon.  After modifications for increased gain, also suggested by
-K1FMS, I have this [TDA2050 Audio Amplifier](TDA2050/Amazon TDA2050.png).
-Tom, W1EX, has made [further modifications](TDA2050/TDA2050 Modified.png),
+K1FMS, I have this 
+[TDA2050 Audio Amplifier](<TDA2050/Amazon TDA2050.png>)
+Tom, W1EX, has made 
+[further modifications](<TDA2050/TDA2050 Modified.png>)
 which I haven't applied to my board yet.
 
